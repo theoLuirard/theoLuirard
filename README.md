@@ -37,6 +37,87 @@ Je contribue à mon échelle en partageant du code, des idées, et des outils ut
 
 ---
 
+## 🧪 Exemple Pratique – Optimisation de la gestion des commandes chez UneSuperBoîte
+
+### 🎯 Contexte de la mission
+
+J'interviens chez **UneSuperBoîte** en tant que **consultant en systèmes d'information**, auprès du **service de gestion des commandes**.  
+L’objectif : **améliorer l'efficacité opérationnelle** en identifiant les blocages, en automatisant les tâches à faible valeur ajoutée et en renforçant la visibilité sur les retards.
+
+---
+
+### 🧭 Étape 1 – Cartographie des missions et temps alloué
+
+Avec le manager du service, nous avons :
+
+- Listé **l'ensemble des missions** du service
+- Estimé le **temps passé** par chaque collaborateur sur chaque mission
+- Identifié :
+  - ✅ **4 missions clés** à forte valeur ajoutée
+  - ⏱️ Des missions **chronophages mais non stratégiques**
+
+---
+
+### 🔍 Étape 2 – Audit des processus
+
+J'ai réalisé un audit terrain en échangeant avec tous les collaborateurs impliqués. Pour chaque processus, j’ai analysé :
+
+- 📥 Les **entrées / sorties**
+- 🔄 Les **manipulations manuelles**
+- 🧰 Les **outils utilisés**
+- ⚠️ Les **frictions** et 💡 le **niveau de confort** à chaque étape
+
+---
+
+### 📊 Étape 3 – Diagnostic & premier livrable
+
+Le premier livrable a mis en évidence :
+
+- ✂️ **Deux processus** comprenant des étapes à **faible valeur ajoutée** (simple formatage ou transfert de données)
+- 🕒 Un **processus stratégique** nécessitait **plus de 2 semaines** à cause d'échanges multiples interservices rallongeant les délais
+
+---
+
+### 🧩 Étape 4 – Mise en place des solutions
+
+À la suite de mes recommandations :
+
+- ✅ Mise en place d'une **solution SaaS de suivi des retards** pour fluidifier les échanges
+- 📊 Déploiement d’un **outil de Business Intelligence (BI)** pour repérer les points de blocage récurrents
+
+---
+
+### ⚙️ Étape 5 – Automatisation des tâches à faible valeur
+
+Pour éliminer les tâches répétitives sous Excel :
+
+- Développement de **macros VBA** automatisant :
+  - Le **reformatage** des fichiers
+  - Les **calculs** à réaliser avant intégration
+- ⏱️ Résultat : **-95 % de temps**, ✅ **zéro erreur humaine**
+
+---
+
+### 📘 Étape 6 – Capitalisation et onboarding
+
+En prévision d’un **turn-over** dans l’équipe :
+
+- ✍️ Rédaction de **fiches de processus métier** claires et accessibles
+- 🚀 Mise à disposition d’un **kit d’onboarding** pour accélérer l’intégration des nouveaux arrivants
+
+---
+
+### ✅ Résultats obtenus
+
+- 📉 **Plusieurs jours gagnés chaque mois**
+- ✅ **Automatisation complète** des tâches répétitives
+- 📊 **Meilleure visibilité** sur les blocages
+- 👥 Équipe **plus résiliente** et **facilité d'intégration** des nouveaux collaborateurs
+
+---
+
+> _Une mission concrète illustrant comment un audit structuré, des outils adaptés et une automatisation ciblée permettent des gains rapides, durables et mesurables._
+
 ## 📫 Me contacter
 
 📧 **[theo.luirard@gmail.com](mailto:theo.luirard@gmail.com)**  
